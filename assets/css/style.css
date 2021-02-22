@@ -3,9 +3,17 @@
   font-family: Georgia, "Times New Roman", Times, serif;
   font-size: 20px;
 }
-#Section {
+.Section {
   background-color: aquamarine;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 a {
   text-decoration: none;
+}
+.link{
+  color: darkmagenta;
+}
+.beck_to_nav{
+  color: deeppink;
+  font-size: 1.5em;
 }
